@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{366:function(n,e,t){"use strict";t.r(e);var o={components:{}},c=t(25),r=t(45),l=t.n(r),h=t(102),component=Object(c.a)(o,function(){var n=this.$createElement,e=this._self._c||n;return e("v-container",[e("h1",[this._v("home")])])},[],!1,null,null,null);e.default=component.exports;l()(component,{VContainer:h.a})}}]);
