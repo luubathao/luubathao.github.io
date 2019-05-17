@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{369:function(n,t,e){"use strict";e.r(t);var o=e(25),component=Object(o.a)({},function(){var n=this.$createElement;return(this._self._c||n)("h1",[this._v("Báo cáo hoạt động")])},[],!1,null,null,null);t.default=component.exports}}]);

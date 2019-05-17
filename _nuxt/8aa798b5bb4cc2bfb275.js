@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{371:function(n,t,e){"use strict";e.r(t);var c=e(25),component=Object(c.a)({},function(){var n=this.$createElement;return(this._self._c||n)("h1",[this._v("Dịch vụ bán vé")])},[],!1,null,null,null);t.default=component.exports}}]);
